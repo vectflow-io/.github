@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Vectflow. Autonomous digital infrastructure." src="assets/banner-dark.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-light.png">
+  <img alt="Vectflow. Autonomous digital infrastructure." src="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-dark.png" width="100%">
 </picture>
 
 <h3 align="center">AI systems that run your business.</h3>
