@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-light.png">
-  <img alt="Vectflow. Autonomous digital infrastructure." src="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-dark.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-btr-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-btr-light.png">
+  <img alt="Vectflow. BUILT TO RUN." src="https://raw.githubusercontent.com/vectflow-io/.github/main/profile/assets/banner-btr-dark.png" width="100%">
 </picture>
 
-<h3 align="center">AI systems that run your business.</h3>
-<p align="center">Each one designed around how you work. Built by Vectflow.</p>
+<h3 align="center">Autonomous digital infrastructure.</h3>
+<p align="center">AI systems that run your business.<br>Each one designed around how you work.<br>Built by Vectflow.</p>
 
 <p align="center">
   <a href="https://vectflow.io/?utm_source=github&utm_medium=social&utm_campaign=profile"><b>vectflow.io</b></a>
@@ -36,4 +36,4 @@ A conversation with **Vector**, Vectflow's AI CEO, at [vectflow.io/start](https:
 
 English and Spanish. Write to [hello@vectflow.io](mailto:hello@vectflow.io).
 
-<sub>Our repositories are private. Built to run.</sub>
+<sub>Our repositories are private.</sub>
